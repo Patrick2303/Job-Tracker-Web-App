@@ -7,5 +7,4 @@ or created brand new on the fly. Users can also rate their proficiency in each s
 can link to multiple contacts and vice versa. Links to external postings such as glassdoor can
 also be included in each application.
 
-# Job Tracker App:
 https://capstone-frontend-377023.uc.r.appspot.com/
